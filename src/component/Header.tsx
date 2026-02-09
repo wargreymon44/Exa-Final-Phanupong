@@ -2,7 +2,7 @@ import { Link } from 'react-router';
 
 export default function Header() {
   return (
-    <header className="bg-yellow-400 w-full flex justify-between items-center">
+    <header className="bg-yellow-200 w-full  flex justify-between items-center">
       <div className="text-2xl text-blue-700 font-bold">
         <Link to="/">Healthcare System</Link>
       </div>
